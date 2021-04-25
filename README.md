@@ -1,6 +1,6 @@
 # Todo-List-with-vanilla-JS
 
-Todo app that CRUD operations, it can also filter the tasks based on if the task is completed or not. 
+Todo app that executes CRUD operations, it can also filter the tasks based on if the task is completed or not. 
 
 To store all of the data for this application I used localStorage since it is easy to setup and incredibly powerful.
 
